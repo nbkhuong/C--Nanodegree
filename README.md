@@ -1,2 +1,2 @@
-# C--Nanodegree
+# CPP-Nanodegree
 C++ Nanodegree
