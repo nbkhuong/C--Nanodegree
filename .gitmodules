@@ -1,0 +1,15 @@
+[submodule "1-OpenStreetMap-Route-Planner"]
+	path = 1-OpenStreetMap-Route-Planner
+	url = https://github.com/nbkhuong/1-OpenStreetMap-Route-Planner.git
+[submodule "2-System-Monitor"]
+	path = 2-System-Monitor
+	url = https://github.com/nbkhuong/2-System-Monitor.git
+[submodule "3-Memory-Mangement-Chatbot"]
+	path = 3-Memory-Mangement-Chatbot
+	url = https://github.com/nbkhuong/3-Memory-Mangement-Chatbot.git
+[submodule "4-Program-a-Concurrent-Traffic-Simulation"]
+	path = 4-Program-a-Concurrent-Traffic-Simulation
+	url = https://github.com/nbkhuong/4-Program-a-Concurrent-Traffic-Simulation.git
+[submodule "5-Capstone-Project"]
+	path = 5-Capstone-Project
+	url = https://github.com/nbkhuong/5-Capstone-Project.git
